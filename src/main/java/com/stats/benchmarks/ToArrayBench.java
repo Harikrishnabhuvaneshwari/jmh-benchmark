@@ -1,4 +1,4 @@
-package com.jenkov.benchmarks;
+package com.stats.benchmarks;
 
 import java.util.ArrayList;
 import java.util.Collection;

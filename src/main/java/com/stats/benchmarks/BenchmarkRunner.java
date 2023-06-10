@@ -1,4 +1,4 @@
-package com.jenkov.benchmarks;
+package com.stats.benchmarks;
 
 import org.openjdk.jmh.runner.Runner;
 import org.openjdk.jmh.runner.RunnerException;

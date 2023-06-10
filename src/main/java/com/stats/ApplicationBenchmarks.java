@@ -1,4 +1,4 @@
-package com.jenkov;
+package com.stats;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
